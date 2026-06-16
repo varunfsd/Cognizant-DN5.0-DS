@@ -1,4 +1,4 @@
-package DeepSkilling.DesignPrinciples;
+package DeepSkilling;
 
 public class SingleResponsibilityPrinciple {
     public static void main(String[] args) {
